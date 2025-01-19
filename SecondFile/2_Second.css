@@ -1,0 +1,22 @@
+ul{
+    display: flex;
+}
+.big{
+    font-size: 30px;
+    justify-content: start;
+}
+.bor{
+    border-style: double;
+    list-style-type: none;
+    padding: 5px;
+    margin-left: 10px;
+}
+.bluee{
+    background-color: aqua;
+}
+.redo{
+    background-color: red;
+}
+.pur{
+    background-color: rgb(232, 192, 255);
+}

@@ -1,0 +1,14 @@
+.A{
+    border: 4px ridge white;
+}
+.B{
+    border: 3px solid black;
+    margin-top: 15px;
+}
+.C{
+    border: 3px double black;
+    margin-top: 15px;
+}
+div{
+    width: 35%;
+}
