@@ -1,0 +1,14 @@
+.Q{
+    border-radius: 50%;
+    background-color: red;
+    margin: top 70px;
+    width: 40px;height: 40px;
+}
+.W{
+    text-align: right;
+    display: flex;
+    justify-content: end;
+}
+nav{
+    display: flex;
+}
