@@ -1,0 +1,16 @@
+div{
+    margin-top: 60px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid blue;
+    box-shadow: 2px -2px white,
+    4px -4px blue,
+    7px -7px white,
+    10px -10px red,
+    13px -13px white,
+    16px -16px green;
+}
+p{
+    padding-left: 40px;
+    padding-top: 50px;
+}

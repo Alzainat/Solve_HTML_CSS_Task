@@ -1,0 +1,11 @@
+#borderimg1 {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(images/bor.jpg) 50 round;
+    width: 35%;
+    margin-left: 25%;
+    padding-left: 65px;
+}
+  
+  
+  
