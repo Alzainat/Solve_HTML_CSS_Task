@@ -1,0 +1,37 @@
+.container{
+    border: 1px solid brown;
+    width: 450px;
+    height: 350px;
+    display: flex;
+    
+}
+.A{
+background-color: green;
+}
+.B{
+background-color: skyblue;
+}
+.C{
+background-color: blueviolet;
+}
+.D{
+background-color: gray;
+}
+.E{
+background-color: yellow;
+}
+.F{
+background-color: orange;
+}
+.G{
+background-color: red;
+}
+.H{
+background-color: dimgrey;
+}
+.I{
+background-color: green;
+}
+.J{
+background-color: darkgreen;
+}
