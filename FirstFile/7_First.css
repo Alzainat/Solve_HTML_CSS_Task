@@ -1,12 +1,14 @@
 .container{
-    border: 1px solid brown;
+    border: 2px solid brown;
     width: 600px;
     height: 350px;
     display: flex;
+    flex-direction: column;
+    
     
 }
 div{
-    width: 40px;
+    
     height: 50px;
     text-align: center;
     font-size:xx-large;
@@ -14,9 +16,7 @@ div{
 }
 .A{
 background-color: green;
-width: 20px;height: 20px;
-font-size: 20px;
-margin-top: 20px;
+
 }
 .B{
 background-color: skyblue;
@@ -26,13 +26,10 @@ background-color: blueviolet;
 }
 .D{
 background-color: gray;
-justify-content: stretch;
-height: 100%;
-
 }
 .E{
 background-color: yellow;
-align-self: center;
+
 }
 .F{
 background-color: orange;
@@ -48,5 +45,5 @@ background-color: green;
 }
 .J{
 background-color: darkgreen;
-align-self: flex-end;
+
 }
